@@ -20,6 +20,7 @@ body {
 
 a {
   font-size: 200px;
+  background-color: transparent;
   font-family: Rubik;
   text-decoration: none;
 }

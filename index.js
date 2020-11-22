@@ -6,8 +6,8 @@ function initMap() {
     zoom: 12,
     center: { lat: 52.5200, lng: 13.4050 }, // 52.5200° N, 13.4050° E
     mapTypeId: "roadmap",
-    disableDefaultUI: true
-    zoomControl: true,
+    disableDefaultUI: true,
+    zoomControl: true
   });
   // Define the LatLng coordinates for the polygon's path.
   const triangleCoords = [

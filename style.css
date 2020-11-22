@@ -1,13 +1,51 @@
-/* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
+@import url('https://fonts.googleapis.com/css?family=Asap');
+
 #map {
   height: 100%;
 }
 
-/* Optional: Makes the sample page fill the window. */
 html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
+}
+
+#floating-panel {
+  position: absolute;
+  z-index: 99;
+  top: 5px;
+  left: 5px;
+}
+
+/* unvisited link */
+a:link {
+  font-size: 200px;
+  font-family: Asap;
+  text-decoration: none;
+  color: transparent;
+}
+
+/* visited link */
+a:visited {
+  font-size: 200px;
+  font-family: Asap;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+}
+
+/* mouse over link */
+a:hover {
+  font-size: 200px;
+  font-family: Asap;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+}
+
+/* selected link */
+a:active {
+  font-size: 200px;
+  font-family: Asap;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
 }

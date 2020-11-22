@@ -16,13 +16,13 @@ function initMap() {
     { lat: 52.5111, lng: 13.4429 }, // return
   ];
   // Construct the polygon.
-  const bermudaTriangle = new google.maps.Polygon({
+  const berlinTriangle = new google.maps.Polygon({
     paths: triangleCoords,
-    strokeColor: "#1a0000",
+    strokeColor: "#000000",
     strokeOpacity: 0.8,
     strokeWeight: 2,
-    fillColor: "#1a0000",
+    fillColor: "#000000",
     fillOpacity: 0.5,
   });
-  bermudaTriangle.setMap(map);
+  berlinTriangle.setMap(map);
 }

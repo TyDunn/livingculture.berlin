@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Mukta');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
 
 #map {
   height: 100%;
@@ -18,34 +18,28 @@ body {
   left: 5px;
 }
 
+a {
+  font-size: 200px;
+  font-family: Rubik;
+  text-decoration: none;
+}
+
 /* unvisited link */
 a:link {
-  font-size: 200px;
-  font-family: Mukta;
-  text-decoration: none;
   color: transparent;
 }
 
 /* visited link */
 a:visited {
-  font-size: 200px;
-  font-family: Mukta;
-  text-decoration: none;
   color: rgba(0, 0, 0, 1);
 }
 
 /* mouse over link */
 a:hover {
-  font-size: 200px;
-  font-family: Mukta;
-  text-decoration: none;
   color: rgba(0, 0, 0, 1);
 }
 
 /* selected link */
 a:active {
-  font-size: 200px;
-  font-family: Mukta;
-  text-decoration: none;
   color: rgba(0, 0, 0, 1);
 }

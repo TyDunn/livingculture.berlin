@@ -7,7 +7,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Mitte.setMap(map);
+        // Mitte.setMap(map);
         
         const Moabit = new google.maps.Polygon({
           paths: MoabitCoords,
@@ -17,7 +17,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Moabit.setMap(map);
+        // Moabit.setMap(map);
         
         const Hansaviertel = new google.maps.Polygon({
           paths: HansaviertelCoords,
@@ -27,7 +27,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Hansaviertel.setMap(map);
+        // Hansaviertel.setMap(map);
         
         const Tiergarten = new google.maps.Polygon({
           paths: TiergartenCoords,
@@ -37,7 +37,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Tiergarten.setMap(map);
+        // Tiergarten.setMap(map);
         
         const Wedding = new google.maps.Polygon({
           paths: WeddingCoords,
@@ -47,7 +47,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wedding.setMap(map);
+        // Wedding.setMap(map);
         
         const Gesundbrunnen = new google.maps.Polygon({
           paths: GesundbrunnenCoords,
@@ -57,7 +57,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Gesundbrunnen.setMap(map);
+        // Gesundbrunnen.setMap(map);
         
         const Friedrichshain = new google.maps.Polygon({
           paths: FriedrichshainCoords,
@@ -67,7 +67,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Friedrichshain.setMap(map);
+        // Friedrichshain.setMap(map);
         
         const Kreuzberg = new google.maps.Polygon({
           paths: KreuzbergCoords,
@@ -77,7 +77,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Kreuzberg.setMap(map);
+        // Kreuzberg.setMap(map);
         
         const PrenzlauerBerg = new google.maps.Polygon({
           paths: PrenzlauerBergCoords,
@@ -87,7 +87,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        PrenzlauerBerg.setMap(map);
+        // PrenzlauerBerg.setMap(map);
         
         const Weißensee = new google.maps.Polygon({
           paths: WeißenseeCoords,
@@ -97,7 +97,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Weißensee.setMap(map);
+        // Weißensee.setMap(map);
         
         const Blankenburg = new google.maps.Polygon({
           paths: BlankenburgCoords,
@@ -107,7 +107,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Blankenburg.setMap(map);
+        // Blankenburg.setMap(map);
         
         const Heinersdorf = new google.maps.Polygon({
           paths: HeinersdorfCoords,
@@ -117,7 +117,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Heinersdorf.setMap(map);
+        // Heinersdorf.setMap(map);
         
         const Karow = new google.maps.Polygon({
           paths: KarowCoords,
@@ -127,7 +127,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Karow.setMap(map);
+        // Karow.setMap(map);
         
         const StadtrandsiedlungMalchow = new google.maps.Polygon({
           paths: StadtrandsiedlungMalchowCoords,
@@ -137,7 +137,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        StadtrandsiedlungMalchow.setMap(map);
+        // StadtrandsiedlungMalchow.setMap(map);
         
         const Pankow = new google.maps.Polygon({
           paths: PankowCoords,
@@ -147,7 +147,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Pankow.setMap(map);
+        // Pankow.setMap(map);
         
         const Blankenfelde = new google.maps.Polygon({
           paths: BlankenfeldeCoords,
@@ -157,7 +157,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Blankenfelde.setMap(map);
+        // Blankenfelde.setMap(map);
         
         const Buch = new google.maps.Polygon({
           paths: BuchCoords,
@@ -167,7 +167,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Buch.setMap(map);
+        // Buch.setMap(map);
         
         const Franzoesisch = new google.maps.Polygon({
           paths: FranzoesischCoords,
@@ -177,7 +177,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Franzoesisch.setMap(map);
+        // Franzoesisch.setMap(map);
         
         const Niederschoenhausen = new google.maps.Polygon({
           paths: NiederschoenhausenCoords,
@@ -187,7 +187,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Niederschoenhausen.setMap(map);
+        // Niederschoenhausen.setMap(map);
         
         const Rosenthal = new google.maps.Polygon({
           paths: RosenthalCoords,
@@ -197,7 +197,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Rosenthal.setMap(map);
+        // Rosenthal.setMap(map);
         
         const Wilhelmsruh = new google.maps.Polygon({
           paths: WilhelmsruhCoords,
@@ -207,7 +207,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wilhelmsruh.setMap(map);
+        // Wilhelmsruh.setMap(map);
         
         const Charlottenburg = new google.maps.Polygon({
           paths: CharlottenburgCoords,
@@ -217,7 +217,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Charlottenburg.setMap(map);
+        // Charlottenburg.setMap(map);
         
         const Wilmersdorf = new google.maps.Polygon({
           paths: WilmersdorfCoords,
@@ -227,7 +227,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wilmersdorf.setMap(map);
+        // Wilmersdorf.setMap(map);
         
         const Schmargendorf = new google.maps.Polygon({
           paths: SchmargendorfCoords,
@@ -237,7 +237,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Schmargendorf.setMap(map);
+        // Schmargendorf.setMap(map);
         
         const Grunewald = new google.maps.Polygon({
           paths: GrunewaldCoords,
@@ -247,7 +247,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Grunewald.setMap(map);
+        // Grunewald.setMap(map);
         
         const Westend = new google.maps.Polygon({
           paths: WestendCoords,
@@ -257,7 +257,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Westend.setMap(map);
+        // Westend.setMap(map);
         
         const CharlottenburgNord = new google.maps.Polygon({
           paths: CharlottenburgNordCoords,
@@ -267,7 +267,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        CharlottenburgNord.setMap(map);
+        // CharlottenburgNord.setMap(map);
         
         const Halensee = new google.maps.Polygon({
           paths: HalenseeCoords,
@@ -277,7 +277,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Halensee.setMap(map);
+        // Halensee.setMap(map);
         
         const Spandau = new google.maps.Polygon({
           paths: SpandauCoords,
@@ -287,7 +287,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Spandau.setMap(map);
+        // Spandau.setMap(map);
         
         const Haselhorst = new google.maps.Polygon({
           paths: HaselhorstCoords,
@@ -297,7 +297,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Haselhorst.setMap(map);
+        // Haselhorst.setMap(map);
         
         const Siemensstadt = new google.maps.Polygon({
           paths: SiemensstadtCoords,
@@ -307,7 +307,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Siemensstadt.setMap(map);
+        // Siemensstadt.setMap(map);
         
         const Staaken = new google.maps.Polygon({
           paths: StaakenCoords,
@@ -317,7 +317,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Staaken.setMap(map);
+        // Staaken.setMap(map);
         
         const Gatow = new google.maps.Polygon({
           paths: GatowCoords,
@@ -327,7 +327,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Gatow.setMap(map);
+        // Gatow.setMap(map);
         
         const Kladow = new google.maps.Polygon({
           paths: KladowCoords,
@@ -337,7 +337,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Kladow.setMap(map);
+        // Kladow.setMap(map);
         
         const Hakenfelde = new google.maps.Polygon({
           paths: HakenfeldeCoords,
@@ -347,7 +347,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Hakenfelde.setMap(map);
+        // Hakenfelde.setMap(map);
         
         const FalkenhagenerFeld = new google.maps.Polygon({
           paths: FalkenhagenerFeldCoords,
@@ -357,7 +357,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        FalkenhagenerFeld.setMap(map);
+        // FalkenhagenerFeld.setMap(map);
         
         const Wilhelmstadt = new google.maps.Polygon({
           paths: WilhelmstadtCoords,
@@ -367,7 +367,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wilhelmstadt.setMap(map);
+        // Wilhelmstadt.setMap(map);
         
         const Steglitz = new google.maps.Polygon({
           paths: SteglitzCoords,
@@ -377,7 +377,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Steglitz.setMap(map);
+        // Steglitz.setMap(map);
         
         const Lichterfelde = new google.maps.Polygon({
           paths: LichterfeldeCoords,
@@ -387,7 +387,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Lichterfelde.setMap(map);
+        // Lichterfelde.setMap(map);
         
         const Lankwitz = new google.maps.Polygon({
           paths: LankwitzCoords,
@@ -397,7 +397,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Lankwitz.setMap(map);
+        // Lankwitz.setMap(map);
         
         const Zehlendorf = new google.maps.Polygon({
           paths: ZehlendorfCoords,
@@ -407,7 +407,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Zehlendorf.setMap(map);
+        // Zehlendorf.setMap(map);
         
         const Dahlem = new google.maps.Polygon({
           paths: DahlemCoords,
@@ -417,7 +417,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Dahlem.setMap(map);
+        // Dahlem.setMap(map);
         
         const Nikolassee = new google.maps.Polygon({
           paths: NikolasseeCoords,
@@ -427,7 +427,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Nikolassee.setMap(map);
+        // Nikolassee.setMap(map);
         
         const Wannsee = new google.maps.Polygon({
           paths: WannseeCoords,
@@ -437,7 +437,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wannsee.setMap(map);
+        // Wannsee.setMap(map);
         
         const Schoeneberg = new google.maps.Polygon({
           paths: SchoenebergCoords,
@@ -447,7 +447,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Schoeneberg.setMap(map);
+        // Schoeneberg.setMap(map);
         
         const Friedenau = new google.maps.Polygon({
           paths: FriedenauCoords,
@@ -457,7 +457,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Friedenau.setMap(map);
+        // Friedenau.setMap(map);
         
         const Tempelhof = new google.maps.Polygon({
           paths: TempelhofCoords,
@@ -467,7 +467,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Tempelhof.setMap(map);
+        // Tempelhof.setMap(map);
         
         const Mariendorf = new google.maps.Polygon({
           paths: MariendorfCoords,
@@ -477,7 +477,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Mariendorf.setMap(map);
+        // Mariendorf.setMap(map);
         
         const Marienfelde = new google.maps.Polygon({
           paths: MarienfeldeCoords,
@@ -487,7 +487,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Marienfelde.setMap(map);
+        // Marienfelde.setMap(map);
         
         const Lichtenrade = new google.maps.Polygon({
           paths: LichtenradeCoords,
@@ -497,7 +497,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Lichtenrade.setMap(map);
+        // Lichtenrade.setMap(map);
         
         const Neukoelln = new google.maps.Polygon({
           paths: NeukoellnCoords,
@@ -507,7 +507,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Neukoelln.setMap(map);
+        // Neukoelln.setMap(map);
         
         const Britz = new google.maps.Polygon({
           paths: BritzCoords,
@@ -517,7 +517,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Britz.setMap(map);
+        // Britz.setMap(map);
         
         const Buckow = new google.maps.Polygon({
           paths: BuckowCoords,
@@ -527,7 +527,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Buckow.setMap(map);
+        // Buckow.setMap(map);
         
         const Rudow = new google.maps.Polygon({
           paths: RudowCoords,
@@ -537,7 +537,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Rudow.setMap(map);
+        // Rudow.setMap(map);
         
         const Gropiusstadt = new google.maps.Polygon({
           paths: GropiusstadtCoords,
@@ -547,7 +547,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Gropiusstadt.setMap(map);
+        // Gropiusstadt.setMap(map);
         
         const AltTreptow = new google.maps.Polygon({
           paths: AltTreptowCoords,
@@ -557,7 +557,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        AltTreptow.setMap(map);
+        // AltTreptow.setMap(map);
         
         const Plaenterwald = new google.maps.Polygon({
           paths: PlaenterwaldCoords,
@@ -567,7 +567,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Plaenterwald.setMap(map);
+        // Plaenterwald.setMap(map);
         
         const Baumschulenweg = new google.maps.Polygon({
           paths: BaumschulenwegCoords,
@@ -577,7 +577,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Baumschulenweg.setMap(map);
+        // Baumschulenweg.setMap(map);
         
         const Johannisthal = new google.maps.Polygon({
           paths: JohannisthalCoords,
@@ -587,7 +587,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Johannisthal.setMap(map);
+        // Johannisthal.setMap(map);
         
         const Niederschoeneweide = new google.maps.Polygon({
           paths: NiederschoeneweideCoords,
@@ -597,7 +597,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Niederschoeneweide.setMap(map);
+        // Niederschoeneweide.setMap(map);
         
         const Altglienicke = new google.maps.Polygon({
           paths: AltglienickeCoords,
@@ -607,7 +607,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Altglienicke.setMap(map);
+        // Altglienicke.setMap(map);
         
         const Adlershof = new google.maps.Polygon({
           paths: AdlershofCoords,
@@ -617,7 +617,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Adlershof.setMap(map);
+        // Adlershof.setMap(map);
         
         const Bohnsdorf = new google.maps.Polygon({
           paths: BohnsdorfCoords,
@@ -627,7 +627,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Bohnsdorf.setMap(map);
+        // Bohnsdorf.setMap(map);
         
         const Oberschoeneweide = new google.maps.Polygon({
           paths: OberschoeneweideCoords,
@@ -637,7 +637,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Oberschoeneweide.setMap(map);
+        // Oberschoeneweide.setMap(map);
         
         const Koepenick = new google.maps.Polygon({
           paths: KoepenickCoords,
@@ -647,7 +647,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Koepenick.setMap(map);
+        // Koepenick.setMap(map);
         
         const Friedrichshagen = new google.maps.Polygon({
           paths: FriedrichshagenCoords,
@@ -657,7 +657,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Friedrichshagen.setMap(map);
+        // Friedrichshagen.setMap(map);
         
         const Rahnsdorf = new google.maps.Polygon({
           paths: RahnsdorfCoords,
@@ -667,7 +667,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Rahnsdorf.setMap(map);
+        // Rahnsdorf.setMap(map);
         
         const Gruenau = new google.maps.Polygon({
           paths: GruenauCoords,
@@ -677,7 +677,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Gruenau.setMap(map);
+        // Gruenau.setMap(map);
         
         const Mueggelheim = new google.maps.Polygon({
           paths: MueggelheimCoords,
@@ -687,7 +687,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Mueggelheim.setMap(map);
+        // Mueggelheim.setMap(map);
         
         const Schmoeckwitz = new google.maps.Polygon({
           paths: SchmoeckwitzCoords,
@@ -697,7 +697,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Schmoeckwitz.setMap(map);
+        // Schmoeckwitz.setMap(map);
         
         const Marzahn = new google.maps.Polygon({
           paths: MarzahnCoords,
@@ -707,7 +707,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Marzahn.setMap(map);
+        // Marzahn.setMap(map);
         
         const Biesdorf = new google.maps.Polygon({
           paths: BiesdorfCoords,
@@ -717,7 +717,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Biesdorf.setMap(map);
+        // Biesdorf.setMap(map);
         
         const Kaulsdorf = new google.maps.Polygon({
           paths: KaulsdorfCoords,
@@ -727,7 +727,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Kaulsdorf.setMap(map);
+        // Kaulsdorf.setMap(map);
         
         const Mahlsdorf = new google.maps.Polygon({
           paths: MahlsdorfCoords,
@@ -737,7 +737,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Mahlsdorf.setMap(map);
+        // Mahlsdorf.setMap(map);
         
         const Hellersdorf = new google.maps.Polygon({
           paths: HellersdorfCoords,
@@ -747,7 +747,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Hellersdorf.setMap(map);
+        // Hellersdorf.setMap(map);
         
         const Friedrichsfelde = new google.maps.Polygon({
           paths: FriedrichsfeldeCoords,
@@ -757,7 +757,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Friedrichsfelde.setMap(map);
+        // Friedrichsfelde.setMap(map);
         
         const Karlshorst = new google.maps.Polygon({
           paths: KarlshorstCoords,
@@ -767,7 +767,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Karlshorst.setMap(map);
+        // Karlshorst.setMap(map);
         
         const Lichtenberg = new google.maps.Polygon({
           paths: LichtenbergCoords,
@@ -777,7 +777,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Lichtenberg.setMap(map);
+        // Lichtenberg.setMap(map);
         
         const Falkenberg = new google.maps.Polygon({
           paths: FalkenbergCoords,
@@ -787,7 +787,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Falkenberg.setMap(map);
+        // Falkenberg.setMap(map);
         
         const Malchow = new google.maps.Polygon({
           paths: MalchowCoords,
@@ -797,7 +797,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Malchow.setMap(map);
+        // Malchow.setMap(map);
         
         const Wartenberg = new google.maps.Polygon({
           paths: WartenbergCoords,
@@ -807,7 +807,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wartenberg.setMap(map);
+        // Wartenberg.setMap(map);
         
         const NeuHohenschoenhausen = new google.maps.Polygon({
           paths: NeuHohenschoenhausenCoords,
@@ -817,7 +817,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        NeuHohenschoenhausen.setMap(map);
+        // NeuHohenschoenhausen.setMap(map);
         
         const AltHohenschoenhausen = new google.maps.Polygon({
           paths: AltHohenschoenhausenCoords,
@@ -827,7 +827,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        AltHohenschoenhausen.setMap(map);
+        // AltHohenschoenhausen.setMap(map);
         
         const Fennpfuhl = new google.maps.Polygon({
           paths: FennpfuhlCoords,
@@ -837,7 +837,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Fennpfuhl.setMap(map);
+        // Fennpfuhl.setMap(map);
         
         const Rummelsburg = new google.maps.Polygon({
           paths: RummelsburgCoords,
@@ -847,7 +847,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Rummelsburg.setMap(map);
+        // Rummelsburg.setMap(map);
         
         const Reinickendorf = new google.maps.Polygon({
           paths: ReinickendorfCoords,
@@ -857,7 +857,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Reinickendorf.setMap(map);
+        // Reinickendorf.setMap(map);
         
         const Tegel = new google.maps.Polygon({
           paths: TegelCoords,
@@ -867,7 +867,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Tegel.setMap(map);
+        // Tegel.setMap(map);
         
         const Konradshoehe = new google.maps.Polygon({
           paths: KonradshoeheCoords,
@@ -877,7 +877,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Konradshoehe.setMap(map);
+        // Konradshoehe.setMap(map);
         
         const Heiligensee = new google.maps.Polygon({
           paths: HeiligenseeCoords,
@@ -887,7 +887,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Heiligensee.setMap(map);
+        // Heiligensee.setMap(map);
         
         const Frohnau = new google.maps.Polygon({
           paths: FrohnauCoords,
@@ -897,7 +897,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Frohnau.setMap(map);
+        // Frohnau.setMap(map);
         
         const Hermsdorf = new google.maps.Polygon({
           paths: HermsdorfCoords,
@@ -907,7 +907,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Hermsdorf.setMap(map);
+        // Hermsdorf.setMap(map);
         
         const Waidmannslust = new google.maps.Polygon({
           paths: WaidmannslustCoords,
@@ -917,7 +917,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Waidmannslust.setMap(map);
+        // Waidmannslust.setMap(map);
         
         const Luebars = new google.maps.Polygon({
           paths: LuebarsCoords,
@@ -927,7 +927,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Luebars.setMap(map);
+        // Luebars.setMap(map);
         
         const Wittenau = new google.maps.Polygon({
           paths: WittenauCoords,
@@ -937,7 +937,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Wittenau.setMap(map);
+        // Wittenau.setMap(map);
         
         const Maerkisches = new google.maps.Polygon({
           paths: MaerkischesCoords,
@@ -947,7 +947,7 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Maerkisches.setMap(map);
+        // Maerkisches.setMap(map);
         
         const Borsigwalde = new google.maps.Polygon({
           paths: BorsigwaldeCoords,
@@ -957,5 +957,5 @@
           fillColor: "#000000",
           fillOpacity: 0.5,
         });
-        Borsigwalde.setMap(map);
+        // Borsigwalde.setMap(map);
         

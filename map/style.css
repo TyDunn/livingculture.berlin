@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+#map {
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#floating-panel {
+  position: fixed;
+  z-index: 99;
+  top: 5px;
+  left: 5px;
+}
+
+a {
+  font-size: 200px;
+  background-color: transparent;
+  font-family: Rubik;
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: transparent;
+}
+
+/* visited link */
+a:visited {
+  color: rgba(0, 0, 0, 1);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgba(0, 0, 0, 1);
+}
+
+/* selected link */
+a:active {
+  color: rgba(0, 0, 0, 1);
+}

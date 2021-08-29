@@ -1,2 +1,1 @@
-# tywalks.berlin
-walking through berlin
+# culture.berlin
